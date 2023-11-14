@@ -1,0 +1,12 @@
+.container{
+    width: 50%;
+    padding: auto;
+    border-style:groove;
+}
+
+.table{
+    width: 50%;
+    padding: auto;
+    margin: auto;
+    border-style:groove;
+}
